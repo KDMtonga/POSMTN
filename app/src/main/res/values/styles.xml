@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar.Bridge">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textViewStyle">@style/AlataTextViewStyle</item>
+        <item name="buttonStyle">@style/AlataButtonStyle</item>
+    </style>
+
+
+    <style name="AlataTextViewStyle" parent="android:Widget.TextView">
+        <item name="android:fontFamily">@font/abhaya_libre</item>
+    </style>
+
+    <style name="AlataButtonStyle" parent="android:Widget.Holo.Button">
+        <item name="android:fontFamily">@font/abhaya_libre</item>
+    </style>
+</resources>

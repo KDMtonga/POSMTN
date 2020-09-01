@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MTN POS</string>
+    <string name="phone_number">Phone number</string>
+    <string name="pin">PIN</string>
+    <string name="login">Login</string>
+    <string name="processing">Processing</string>
+    <string name="initiate_npayment">Initiate\nPayment</string>
+    <string name="transaction_history">Transaction\nHistory</string>
+    <string name="payment_request">Payment Request</string>
+    <string name="amount">Amount</string>
+    <string name="request_payment">Request payment</string>
+    <string name="merchant_details">Merchant Details</string>
+    <string name="momo_account">MOMO Account</string>
+</resources>

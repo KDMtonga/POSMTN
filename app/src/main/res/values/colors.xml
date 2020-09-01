@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffbb00</color>
+    <color name="colorPrimaryDark">#ffaa00</color>
+    <color name="colorAccent">#1C2E4A</color>
+    <color name="slate">#48585D</color>
+    <color name="blue_color_code">#1C2E4A</color>
+    <color name="white">#FFFFFF</color>
+
+<!--random color code-->
+<!--    <color name="colorAccent">#008080</color>-->
+<!--    Original MTN Color code-->
+<!--    <color name="colorPrimary">#ffcc00</color>-->
+</resources>
